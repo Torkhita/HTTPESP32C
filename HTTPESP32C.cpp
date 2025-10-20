@@ -106,7 +106,7 @@ void setup(void) {
   });
 
   server.begin();
-  Serial.println("HTTP server started");
+  Serial.println("Servidor HTTP iniciat");
 }
 
 void loop(void) {
